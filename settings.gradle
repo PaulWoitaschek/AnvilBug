@@ -1,0 +1,2 @@
+rootProject.name = "anvilbug"
+include ':app'
